@@ -8,6 +8,6 @@ Files
 
 * adressenmeister.d64: The full disc image file
 * adressenmeister.prg: The original prg-file rescued from a floppy disc
-* adressenmeister.txt: A text-converted version of the source code
+* adressenmeister.bas: A text-converted version of the source code
 
 More on http://blogs.fsfe.org/clemens
